@@ -1,6 +1,7 @@
 my:
   greeting: Welcome to Learning Spring Boot Configuration Management
   appName: Config Client 2
+  test: Test Reading from two config files
   list: 
     values: apple,banana,Mango
  
